@@ -1,0 +1,17 @@
+
+
+.cart {
+  display: flex;
+  gap: 8px;
+  border: 1px solid black;
+  width: 400px;
+}
+
+.cart__img {
+  width: 150px;
+  height: 200px;
+}
+
+.cart__content {
+  width: 245px;
+}
